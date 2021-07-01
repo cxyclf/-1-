@@ -46,5 +46,5 @@ if(command.isUnknown()) {
 
 
 
-![UML.png](https://github.com/wutcst/sept-task1-cxyclf/blob/master/UML.png?raw=true)
+![UML.png](./image/UML.png)
 
