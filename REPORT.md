@@ -46,4 +46,5 @@ if(command.isUnknown()) {
 
 
 
-！[Alt text](/UML.png)
+！[](https://github.com/wutcst/sept-task1-cxyclf/blob/master/UML.png?raw=true)
+
