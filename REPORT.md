@@ -46,5 +46,5 @@ if(command.isUnknown()) {
 
 
 
-！[UML](/image/UML.png)
+！[UML](./image/UML.png)
 
