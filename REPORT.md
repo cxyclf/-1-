@@ -46,5 +46,5 @@ if(command.isUnknown()) {
 
 
 
-！[UML](https://pic1.zhimg.com/80/v2-57f0f63de851546e9e0b42ff293af5d1_720w.jpg?source=1940ef5c)
+![UML.png](https://github.com/wutcst/sept-task1-cxyclf/blob/master/UML.png?raw=true)
 
