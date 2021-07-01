@@ -46,5 +46,5 @@ if(command.isUnknown()) {
 
 
 
-！[UML](/image/UML.png)
+！[UML](https://github.com/cxyclf/image/blob/main/UML.png?raw=true)
 
